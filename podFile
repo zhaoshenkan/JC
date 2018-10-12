@@ -1,0 +1,18 @@
+
+
+   use_frameworks!
+
+  target 'JC' do
+  pod 'SnapKit'
+  pod 'Moya'
+  pod 'Moya/RxSwift'
+  pod 'ObjectMapper'
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  pod 'Alamofire'  
+  pod 'MBProgressHUD'
+  pod 'JPush'
+  pod 'MJRefresh'
+  pod 'DZNEmptyDataSet' 
+
+end 
